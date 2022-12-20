@@ -32,8 +32,8 @@
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="Php" src="https://media.geeksforgeeks.org/wp-content/uploads/20190913134310/php3-1024x342.png"   width= "80px";/>
-<img alt="Yii2" src="https://techrocks.ru/wp-content/uploads/2019/07/yii2-logo.png"  width= "80px"/>
+<img alt="Php" src="https://media.geeksforgeeks.org/wp-content/uploads/20190913134310/php3-1024x342.png"    height="28px";/>
+<img alt="Yii2" src="https://techrocks.ru/wp-content/uploads/2019/07/yii2-logo.png"    height="28px";/>
 </div>
 
 <h3 align="left">Languages :</h3>
